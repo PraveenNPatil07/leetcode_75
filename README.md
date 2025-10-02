@@ -20,9 +20,14 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Simulation
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/3336-water-bottles-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
