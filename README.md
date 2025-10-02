@@ -1,5 +1,5 @@
 # leetcode-grid
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 75! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
