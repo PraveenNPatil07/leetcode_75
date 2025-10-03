@@ -25,6 +25,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0238-product-of-array-except-self) |
+| [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Simulation
@@ -39,4 +40,16 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
