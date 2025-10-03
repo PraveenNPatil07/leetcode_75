@@ -4,10 +4,6 @@ class Solution {
         String[] arr = s.split(" ");
         int n = arr.length;
 
-        for(int i=0; i<n; i++){
-            arr[i] = arr[i].trim();
-        }
-
         for(int i=0; i<n/2; i++){
             String temp = arr[i].trim();
             arr[i] = arr[n-1-i].trim();
