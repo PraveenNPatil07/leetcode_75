@@ -24,6 +24,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Simulation
@@ -34,4 +35,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
