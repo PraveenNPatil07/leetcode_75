@@ -9,6 +9,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0151-reverse-words-in-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/PraveenNPatil07/leetcode-grid/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -16,6 +17,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/PraveenNPatil07/leetcode-grid/tree/master/1894-merge-strings-alternately) |
@@ -58,4 +60,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
