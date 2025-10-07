@@ -37,6 +37,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Simulation
@@ -77,4 +78,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
