@@ -25,6 +25,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/PraveenNPatil07/leetcode-grid/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
@@ -113,4 +115,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
