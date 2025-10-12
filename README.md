@@ -48,9 +48,11 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
 | [3336-water-bottles-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
@@ -77,6 +79,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+| [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +92,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [1392-find-the-difference-of-two-arrays](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
