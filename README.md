@@ -133,4 +133,5 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
