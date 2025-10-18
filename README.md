@@ -77,6 +77,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -139,4 +140,16 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0328-odd-even-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
