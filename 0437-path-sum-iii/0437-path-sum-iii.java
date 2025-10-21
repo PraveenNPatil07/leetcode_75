@@ -17,10 +17,8 @@ class Solution {
     public int pathSum(TreeNode root, int targetSum) {
         if (root == null) return 0;
 
-        // Count paths starting from current node
         int res = countPathsFromNode(root, targetSum);
 
-        // Recurse on left and right subtrees
         res += pathSum(root.left, targetSum);
         res += pathSum(root.right, targetSum);
 
@@ -33,7 +31,6 @@ class Solution {
         int count = 0;
         if (node.val == targetSum) count++;
 
-        // Continue path downward
         count += countPathsFromNode(node.left, targetSum - node.val);
         count += countPathsFromNode(node.right, targetSum - node.val);
 
