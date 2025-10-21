@@ -79,6 +79,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,14 +146,17 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0437-path-sum-iii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0437-path-sum-iii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0437-path-sum-iii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
