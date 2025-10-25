@@ -80,6 +80,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -164,6 +165,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0199-binary-tree-right-side-view](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -188,5 +190,10 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
