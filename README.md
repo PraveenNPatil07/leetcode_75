@@ -122,6 +122,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -196,4 +197,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0547-number-of-provinces) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
