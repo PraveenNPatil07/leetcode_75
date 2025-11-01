@@ -57,6 +57,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [1833-find-the-highest-altitude](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0011-container-with-most-water](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
+| [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
 ## Sliding Window
 |  |
 | ------- |
