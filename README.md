@@ -21,6 +21,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
@@ -123,6 +124,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1319-unique-number-of-occurrences](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -247,4 +249,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
