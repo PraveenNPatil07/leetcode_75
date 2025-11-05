@@ -36,6 +36,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
 | [3336-water-bottles-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/3336-water-bottles-ii) |
 ## Array
 |  |
@@ -120,6 +121,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -255,4 +257,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
