@@ -125,6 +125,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
