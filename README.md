@@ -43,6 +43,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0011-container-with-most-water](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +122,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
