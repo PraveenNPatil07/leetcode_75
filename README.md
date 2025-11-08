@@ -35,6 +35,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
 | [3336-water-bottles-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/3336-water-bottles-ii) |
@@ -122,6 +123,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
@@ -266,4 +268,8 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
