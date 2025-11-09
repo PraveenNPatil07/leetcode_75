@@ -54,6 +54,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
@@ -85,6 +86,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0011-container-with-most-water](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -127,6 +129,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0062-unique-paths](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1236-n-th-tribonacci-number) |
