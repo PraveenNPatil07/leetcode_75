@@ -31,6 +31,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0443-string-compression](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/PraveenNPatil07/leetcode-grid/tree/master/1894-merge-strings-alternately) |
@@ -66,6 +67,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [1046-max-consecutive-ones-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -116,6 +118,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
@@ -156,6 +159,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -174,6 +178,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0374-guess-number-higher-or-lower](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
@@ -294,4 +299,5 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
