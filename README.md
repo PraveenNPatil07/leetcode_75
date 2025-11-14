@@ -56,6 +56,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0283-move-zeroes](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0407-trapping-rain-water-ii) |
+| [0435-non-overlapping-intervals](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -90,6 +91,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | ------- |
 | [0011-container-with-most-water](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2636-maximum-subsequence-score) |
@@ -137,6 +139,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0198-house-robber](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0806-domino-and-tromino-tiling) |
@@ -159,6 +162,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PraveenNPatil07/leetcode_75/tree/master/1798-max-number-of-k-sum-pairs) |
