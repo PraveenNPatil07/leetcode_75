@@ -198,6 +198,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 | [0394-decode-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -280,6 +281,7 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/PraveenNPatil07/leetcode_75/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -313,4 +315,9 @@ Welcome to leetcode-grid, a structured archive of my solutions to the LeetCode 7
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/PraveenNPatil07/leetcode_75/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
